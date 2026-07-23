@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ===== CONFIGURATION - CUSTOMIZE THESE! =====
     // CUSTOMIZE: Set the birthday date (format: 'Month Day, Year HH:MM:SS')
-    const birthdayDate = new Date('July 23, 2026 00:00:00').getTime();
+    const birthdayDate = new Date('July 24, 2026 00:00:00').getTime();
 
     // CUSTOMIZE: Change this greeting message
     const greetingText = "Hey Love! You make every day brighter, and I’m so lucky to have you in my life. Happy Birthday, my heart! 💖";
